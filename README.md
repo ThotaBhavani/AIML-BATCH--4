@@ -2,3 +2,4 @@
 [https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/AIML_Assignment_4.ipynb]
 [https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/AIML_Assignment_5.ipynb]
 [https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/Lab06_AIML.ipynb]
+[https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/Lab07_SVM.ipynb]
