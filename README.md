@@ -6,3 +6,4 @@
 [https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/Lab08_Decision_Tree.ipynb]
 [https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/assignment2.ipynb]
 [https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/assignment3.ipynb]
+[https://github.com/ThotaBhavani/AIML-BATCH--4/blob/main/Lab09_RF_Classification_ipynb_txt.ipynb]
